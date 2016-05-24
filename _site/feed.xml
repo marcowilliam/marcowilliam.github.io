@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Human Tetris</title>
+    <title>Marco William Silva</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://marcowilliam.github.io/HumanTetris/</link>
-    <atom:link href="https://marcowilliam.github.io/HumanTetris/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 May 2016 20:10:13 -0300</pubDate>
-    <lastBuildDate>Mon, 23 May 2016 20:10:13 -0300</lastBuildDate>
+    <link>https://marcowilliam.github.io/</link>
+    <atom:link href="https://marcowilliam.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 23 May 2016 23:44:05 -0300</pubDate>
+    <lastBuildDate>Mon, 23 May 2016 23:44:05 -0300</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 23 May 2016 19:06:04 -0300</pubDate>
-        <link>https://marcowilliam.github.io/HumanTetris/jekyll/update/2016/05/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://marcowilliam.github.io/HumanTetris/jekyll/update/2016/05/23/welcome-to-jekyll.html</guid>
+        <link>https://marcowilliam.github.io/jekyll/update/2016/05/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://marcowilliam.github.io/jekyll/update/2016/05/23/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
